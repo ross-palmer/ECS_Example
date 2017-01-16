@@ -93,6 +93,15 @@
     <ClInclude Include="include\utils\CollisionBox.h">
       <Filter>Header Files\utils</Filter>
     </ClInclude>
+    <ClInclude Include="include\systems\PlayerControlSystem.h">
+      <Filter>Header Files\systems</Filter>
+    </ClInclude>
+    <ClInclude Include="include\KeyHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\components\PlayerControl.h">
+      <Filter>Header Files\components</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\EntityCreator.cpp">
